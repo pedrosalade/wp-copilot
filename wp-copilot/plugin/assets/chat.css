@@ -1,0 +1,9 @@
+.wpcopilot-chat{max-width:860px;margin:0 auto;border:1px solid #eaeaea;border-radius:16px;padding:16px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+.wpcopilot-messages{min-height:260px;max-height:640px;overflow:auto;padding:8px 0;display:flex;flex-direction:column;background:#fafafa;border-radius:12px;border:1px solid #eee}
+.wpcopilot-input{display:flex;gap:8px;margin-top:12px}
+.wpcopilot-input input{flex:1;padding:12px;border:1px solid #ddd;border-radius:12px}
+.wpcopilot-input button{padding:12px 16px;border:0;border-radius:12px;cursor:pointer;box-shadow:0 1px 2px rgba(0,0,0,.05)}
+.wpcopilot-msg{padding:10px 14px;border-radius:14px;margin:6px 10px;max-width:85%;line-height:1.5}
+.wpcopilot-msg.user{background:#eef2ff;align-self:flex-end}
+.wpcopilot-msg.ai{background:#ffffff;align-self:flex-start;border:1px solid #eee}
+.typing{font-size:12px;color:#6b7280;margin:4px 12px}
