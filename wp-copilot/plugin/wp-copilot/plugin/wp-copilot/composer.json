@@ -1,0 +1,7 @@
+{
+  "name": "toursandadventure/wp-copilot",
+  "description": "WP Copilot (MVP): chat GPT-5 / Gemini 2.5 Flash + lectura segura de archivos + logging.",
+  "type": "project",
+  "license": "MIT",
+  "require": {}
+}
