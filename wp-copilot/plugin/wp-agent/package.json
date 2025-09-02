@@ -1,0 +1,19 @@
+{
+  "name": "wp-agent",
+  "version": "0.1.0",
+  "description": "CLI agent to manage WordPress files via SFTP or cPanel UAPI (list, read, write, create, delete).",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node src/index.js",
+    "agent": "node src/index.js --help"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "ssh2-sftp-client": "^11.0.0",
+    "yargs": "^17.7.2"
+  }
+}
+
